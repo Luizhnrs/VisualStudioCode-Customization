@@ -16,4 +16,31 @@
   "breadcrumbs.enabled": false,
   "workbench.activityBar.location": "hidden",
   "editor.minimap.enabled": false,
+
+  "apc.font.family": "Comic Sans MS",
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+
+  },
+
+  "cSpell.enableFiletypes": [
+    "!asciidoc",
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!go",
+    "!handlebars",
+    "!haskell",
+    "!jade",
+    "!java",
+    "!latex",
+    "!php",
+    "!pug",
+    "!python",
+    "!restructuredtext",
+    "!rust",
+    "!scala",
+    "!scss"
+  ],
+
 }
