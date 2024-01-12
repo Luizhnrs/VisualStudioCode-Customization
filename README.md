@@ -190,9 +190,9 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 - Stylelint 
 
 ## 🎨 VS Code Themes
-- One Dark Pro 👈
+- One Dark Pro 
 - Dracula Official
-- Min Darkest
+- Min Darkest 👈
 - GitHub Theme
 - Vim Theme
 - Intellij Dark
