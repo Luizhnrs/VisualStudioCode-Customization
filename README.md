@@ -68,6 +68,8 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
     "javascript",
     "javascriptreact",
     "graphql"
+    "typescript",
+    "typescriptreact"
   ],
 
   "editor.scrollbar.vertical": "hidden",
