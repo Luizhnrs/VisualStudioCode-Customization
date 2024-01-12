@@ -164,7 +164,7 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 - Intellij Dark
 
 ## 🔑 VS Code Keyboard Shortcuts 
-
+```bash
 | Keyboard Shortcuts | Windows / Linux |
 | :-------- | :------- | :-------------------------------- |
 |  HTML boilerplate  |  ! + TAB | ! + TAB |
@@ -190,7 +190,7 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 |  To Show suggestion | Ctrl + Space | cmd + space |
 |  To Close a TAB | Ctrl + W | cmd + W |
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
-
+```
 ## ✒ Font Info
 - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 - [Comic Sans MS](https://www.dafontfree.io/comic-sans-ms-font/)
