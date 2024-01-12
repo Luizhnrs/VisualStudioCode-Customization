@@ -29,6 +29,10 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 
   },
 
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+
   "cSpell.enableFiletypes": [
     "!asciidoc",
     "!c",
@@ -56,11 +60,35 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
     "FIG_NEW_SESSION": "1"
   },
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
   },
 
-  "emmet.syntaxProfiles": {
-    "javascript": "jsx"
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "graphql"
+  ],
+
+  "editor.scrollbar.vertical": "hidden",
+  "explorer.sortOrder": "foldersNestsFiles",
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*, package-lock",
+    "tailwind.config.js": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*",
+   },
+   
+  "gitlens.codeLens.authors.enabled": false,
+  "editor.tabSize": 2,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "files.exclude": {
+    "**\/CVS": true,
+    "**\/.DS_Store": true,
+    "**\/.hg": true,
+    "**\/.svn": true,
+    "**\/.git": true,
+    ".vscode": true
   },
 
   "explorer.fileNesting.enabled": true,
@@ -129,6 +157,9 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
   ],
   
   "workbench.statusBar.visible": false,
+  "window.menuBarVisibility": "compact",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
 
 }
 
