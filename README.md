@@ -143,8 +143,8 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 - JavaScript (ES6) code snippets 
 - Live Server 
 - Tailwind CSS Intellisense
-- Material Icon Theme 
-- npm Intellisense 
+- Docker
+- WSL
 - Haskell Syntax Highlights
 - Java Extension Pack
 - C# Dev Kit
