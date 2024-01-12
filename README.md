@@ -163,6 +163,11 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 - Vim Theme
 - Intellij Dark
 
+## 🎨 VS Code Icons
+- Icons By publisher:"Mhammed Talhaouy"
+- Fluent Icons
+- Mk Icons
+
 ## 🔑 VS Code Keyboard Shortcuts 
 ```bash
 | Keyboard Shortcuts | Windows / Linux |
