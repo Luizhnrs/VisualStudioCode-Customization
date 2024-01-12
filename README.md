@@ -200,6 +200,6 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 - [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 - [Comic Sans MS](https://www.dafontfree.io/comic-sans-ms-font/)
 
-## 🥰 Follow me
+## 👣 Follow me
 - [@Github](https://github.com/Luizhnrs/) 
 - [@X](https://twitter.com/Luizhnrsg/) 
