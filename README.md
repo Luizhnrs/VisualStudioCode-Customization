@@ -31,6 +31,7 @@ I simplified my Visual Studio Code to stay focused while minimizing distractions
 
   "emmet.syntaxProfiles": {
     "javascript": "jsx"
+    "typescript": "tsx"
   },
 
   "cSpell.enableFiletypes": [
